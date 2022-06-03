@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/milipona-honey/static/css/main.e8783a10.chunk.css",
+    "main.js": "/milipona-honey/static/js/main.3ad07779.chunk.js",
+    "main.js.map": "/milipona-honey/static/js/main.3ad07779.chunk.js.map",
+    "runtime-main.js": "/milipona-honey/static/js/runtime-main.27d4101b.js",
+    "runtime-main.js.map": "/milipona-honey/static/js/runtime-main.27d4101b.js.map",
+    "static/js/2.27505fc1.chunk.js": "/milipona-honey/static/js/2.27505fc1.chunk.js",
+    "static/js/2.27505fc1.chunk.js.map": "/milipona-honey/static/js/2.27505fc1.chunk.js.map",
+    "index.html": "/milipona-honey/index.html",
+    "precache-manifest.62ac4dfcdf195631435440956b5e1d62.js": "/milipona-honey/precache-manifest.62ac4dfcdf195631435440956b5e1d62.js",
+    "service-worker.js": "/milipona-honey/service-worker.js",
+    "static/css/main.e8783a10.chunk.css.map": "/milipona-honey/static/css/main.e8783a10.chunk.css.map",
+    "static/js/2.27505fc1.chunk.js.LICENSE.txt": "/milipona-honey/static/js/2.27505fc1.chunk.js.LICENSE.txt",
+    "static/media/bee-logo.png": "/milipona-honey/static/media/bee-logo.f423a142.png",
+    "static/media/style.scss": "/milipona-honey/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/milipona-honey/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/milipona-honey/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/milipona-honey/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/healthy1.jpg": "/milipona-honey/static/media/healthy1.3e84c6c0.jpg",
+    "static/media/honey-general.jpg": "/milipona-honey/static/media/honey-general.adec8209.jpg",
+    "static/media/miel-artesanal1.jpg": "/milipona-honey/static/media/miel-artesanal1.9cdcbeb1.jpg",
+    "static/media/nacional1.jpg": "/milipona-honey/static/media/nacional1.04c4d8a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27d4101b.js",
+    "static/js/2.27505fc1.chunk.js",
+    "static/css/main.e8783a10.chunk.css",
+    "static/js/main.3ad07779.chunk.js"
+  ]
+}
