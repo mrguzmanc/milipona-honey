@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/milipona-honey/static/css/main.e8783a10.chunk.css",
-    "main.js": "/milipona-honey/static/js/main.3a47e0ab.chunk.js",
-    "main.js.map": "/milipona-honey/static/js/main.3a47e0ab.chunk.js.map",
+    "main.js": "/milipona-honey/static/js/main.223f4559.chunk.js",
+    "main.js.map": "/milipona-honey/static/js/main.223f4559.chunk.js.map",
     "runtime-main.js": "/milipona-honey/static/js/runtime-main.27d4101b.js",
     "runtime-main.js.map": "/milipona-honey/static/js/runtime-main.27d4101b.js.map",
     "static/js/2.af662a74.chunk.js": "/milipona-honey/static/js/2.af662a74.chunk.js",
     "static/js/2.af662a74.chunk.js.map": "/milipona-honey/static/js/2.af662a74.chunk.js.map",
     "index.html": "/milipona-honey/index.html",
-    "precache-manifest.6e6e374cfe0442aeb9b3945db043dd11.js": "/milipona-honey/precache-manifest.6e6e374cfe0442aeb9b3945db043dd11.js",
+    "precache-manifest.4141daa6d621fc732a171deafbc023c1.js": "/milipona-honey/precache-manifest.4141daa6d621fc732a171deafbc023c1.js",
     "service-worker.js": "/milipona-honey/service-worker.js",
     "static/css/main.e8783a10.chunk.css.map": "/milipona-honey/static/css/main.e8783a10.chunk.css.map",
     "static/js/2.af662a74.chunk.js.LICENSE.txt": "/milipona-honey/static/js/2.af662a74.chunk.js.LICENSE.txt",
@@ -19,13 +19,13 @@
     "static/media/feature-tile-icon-03.svg": "/milipona-honey/static/media/feature-tile-icon-03.66f37ba5.svg",
     "static/media/healthy1.jpg": "/milipona-honey/static/media/healthy1.3e84c6c0.jpg",
     "static/media/honey-general.jpg": "/milipona-honey/static/media/honey-general.adec8209.jpg",
-    "static/media/miel-artesanal1.jpg": "/milipona-honey/static/media/miel-artesanal1.9cdcbeb1.jpg",
+    "static/media/miel-artesanal1.jpg": "/milipona-honey/static/media/miel-artesanal1.e2706d0d.jpg",
     "static/media/nacional1.jpg": "/milipona-honey/static/media/nacional1.04c4d8a9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.27d4101b.js",
     "static/js/2.af662a74.chunk.js",
     "static/css/main.e8783a10.chunk.css",
-    "static/js/main.3a47e0ab.chunk.js"
+    "static/js/main.223f4559.chunk.js"
   ]
 }

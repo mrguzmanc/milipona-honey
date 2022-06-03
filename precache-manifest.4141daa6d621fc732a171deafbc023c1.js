@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1faab852b31afb74266d676bd86fd6a2",
+    "revision": "906d20994e1f0c50ac68818432752bfc",
     "url": "/milipona-honey/index.html"
   },
   {
-    "revision": "1cbf8bd765735f775c2f",
+    "revision": "d3648a0350b84551860a",
     "url": "/milipona-honey/static/css/main.e8783a10.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/milipona-honey/static/js/2.af662a74.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1cbf8bd765735f775c2f",
-    "url": "/milipona-honey/static/js/main.3a47e0ab.chunk.js"
+    "revision": "d3648a0350b84551860a",
+    "url": "/milipona-honey/static/js/main.223f4559.chunk.js"
   },
   {
     "revision": "3ad933ce8af03e512508",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/milipona-honey/static/media/illustration-section-02.63d0555d.svg"
   },
   {
-    "revision": "9cdcbeb1c27fc2b511a26ca0f8d7ff37",
-    "url": "/milipona-honey/static/media/miel-artesanal1.9cdcbeb1.jpg"
+    "revision": "e2706d0d7d826faa05f6f5f969be55dd",
+    "url": "/milipona-honey/static/media/miel-artesanal1.e2706d0d.jpg"
   },
   {
     "revision": "04c4d8a9ceb1f388ad69a60e86381ab7",
