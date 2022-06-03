@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7bc6e96b48442a2f4df115906477dae9",
+    "revision": "a393f52b95d560941be20b1b73d247cf",
     "url": "/milipona-honey/index.html"
   },
   {
-    "revision": "515bc4a5b28ce9ee3dfb",
+    "revision": "ed8cb08181a7f5a129e6",
     "url": "/milipona-honey/static/css/main.e8783a10.chunk.css"
   },
   {
-    "revision": "dca570b8f03c7b6ea196",
-    "url": "/milipona-honey/static/js/2.453470df.chunk.js"
+    "revision": "5a67963ea5712876a793",
+    "url": "/milipona-honey/static/js/2.af662a74.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/milipona-honey/static/js/2.453470df.chunk.js.LICENSE.txt"
+    "url": "/milipona-honey/static/js/2.af662a74.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "515bc4a5b28ce9ee3dfb",
-    "url": "/milipona-honey/static/js/main.75a296bc.chunk.js"
+    "revision": "ed8cb08181a7f5a129e6",
+    "url": "/milipona-honey/static/js/main.0c38f73c.chunk.js"
   },
   {
     "revision": "3ad933ce8af03e512508",
