@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/milipona-honey/static/css/main.e8783a10.chunk.css",
-    "main.js": "/milipona-honey/static/js/main.0c38f73c.chunk.js",
-    "main.js.map": "/milipona-honey/static/js/main.0c38f73c.chunk.js.map",
+    "main.js": "/milipona-honey/static/js/main.a3df3367.chunk.js",
+    "main.js.map": "/milipona-honey/static/js/main.a3df3367.chunk.js.map",
     "runtime-main.js": "/milipona-honey/static/js/runtime-main.27d4101b.js",
     "runtime-main.js.map": "/milipona-honey/static/js/runtime-main.27d4101b.js.map",
     "static/js/2.af662a74.chunk.js": "/milipona-honey/static/js/2.af662a74.chunk.js",
     "static/js/2.af662a74.chunk.js.map": "/milipona-honey/static/js/2.af662a74.chunk.js.map",
     "index.html": "/milipona-honey/index.html",
-    "precache-manifest.7ac1de0a721d4a06f4b755658c49790c.js": "/milipona-honey/precache-manifest.7ac1de0a721d4a06f4b755658c49790c.js",
+    "precache-manifest.8a83abfe674443788d14f9cd60aa90a4.js": "/milipona-honey/precache-manifest.8a83abfe674443788d14f9cd60aa90a4.js",
     "service-worker.js": "/milipona-honey/service-worker.js",
     "static/css/main.e8783a10.chunk.css.map": "/milipona-honey/static/css/main.e8783a10.chunk.css.map",
     "static/js/2.af662a74.chunk.js.LICENSE.txt": "/milipona-honey/static/js/2.af662a74.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.27d4101b.js",
     "static/js/2.af662a74.chunk.js",
     "static/css/main.e8783a10.chunk.css",
-    "static/js/main.0c38f73c.chunk.js"
+    "static/js/main.a3df3367.chunk.js"
   ]
 }
