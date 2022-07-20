@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/milipona-honey/precache-manifest.e47cda5fbb9512c68d73a055b4d9bfd0.js"
+  "/milipona-honey/precache-manifest.da46f9d38575aa85f0cc4788e10582e8.js"
 );
 
 self.addEventListener('message', (event) => {
